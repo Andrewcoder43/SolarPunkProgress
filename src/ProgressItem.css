@@ -1,0 +1,10 @@
+.progress-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 1.5em;
+}
+
+.emoji {
+    margin-right: 10px;
+}
